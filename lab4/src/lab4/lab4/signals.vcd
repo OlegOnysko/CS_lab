@@ -1,0 +1,373 @@
+$date
+     May 20, 2022       17:07:52
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- May  1 2022 10:43:03
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  CLK       $end
+$var real    1  aaaab  Prod       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+r0 aaaab
+$end
+
+#10
+1aaaaa
+
+#20
+0aaaaa
+
+#30
+1aaaaa
+r-25 aaaab
+
+#40
+0aaaaa
+
+#50
+1aaaaa
+
+#60
+0aaaaa
+
+#70
+1aaaaa
+r70731 aaaab
+
+#80
+0aaaaa
+
+#90
+1aaaaa
+r67056 aaaab
+
+#100
+0aaaaa
+
+#110
+1aaaaa
+r63479 aaaab
+
+#120
+0aaaaa
+
+#130
+1aaaaa
+r60000 aaaab
+
+#140
+0aaaaa
+
+#150
+1aaaaa
+r56619 aaaab
+
+#160
+0aaaaa
+
+#170
+1aaaaa
+r53336 aaaab
+
+#180
+0aaaaa
+
+#190
+1aaaaa
+r50151 aaaab
+
+#200
+0aaaaa
+
+#210
+1aaaaa
+r47064 aaaab
+
+#220
+0aaaaa
+
+#230
+1aaaaa
+r44075 aaaab
+
+#240
+0aaaaa
+
+#250
+1aaaaa
+r41184 aaaab
+
+#260
+0aaaaa
+
+#270
+1aaaaa
+r38391 aaaab
+
+#280
+0aaaaa
+
+#290
+1aaaaa
+r35696 aaaab
+
+#300
+0aaaaa
+
+#310
+1aaaaa
+r33099 aaaab
+
+#320
+0aaaaa
+
+#330
+1aaaaa
+r30600 aaaab
+
+#340
+0aaaaa
+
+#350
+1aaaaa
+r28199 aaaab
+
+#360
+0aaaaa
+
+#370
+1aaaaa
+r25896 aaaab
+
+#380
+0aaaaa
+
+#390
+1aaaaa
+r23691 aaaab
+
+#400
+0aaaaa
+
+#410
+1aaaaa
+r21584 aaaab
+
+#420
+0aaaaa
+
+#430
+1aaaaa
+r19575 aaaab
+
+#440
+0aaaaa
+
+#450
+1aaaaa
+r17664 aaaab
+
+#460
+0aaaaa
+
+#470
+1aaaaa
+r15851 aaaab
+
+#480
+0aaaaa
+
+#490
+1aaaaa
+r14136 aaaab
+
+#500
+0aaaaa
+
+#510
+1aaaaa
+r12519 aaaab
+
+#520
+0aaaaa
+
+#530
+1aaaaa
+r11000 aaaab
+
+#540
+0aaaaa
+
+#550
+1aaaaa
+r9579 aaaab
+
+#560
+0aaaaa
+
+#570
+1aaaaa
+r8256 aaaab
+
+#580
+0aaaaa
+
+#590
+1aaaaa
+r7031 aaaab
+
+#600
+0aaaaa
+
+#610
+1aaaaa
+r5904 aaaab
+
+#620
+0aaaaa
+
+#630
+1aaaaa
+r4875 aaaab
+
+#640
+0aaaaa
+
+#650
+1aaaaa
+r3944 aaaab
+
+#660
+0aaaaa
+
+#670
+1aaaaa
+r3111 aaaab
+
+#680
+0aaaaa
+
+#690
+1aaaaa
+r2376 aaaab
+
+#700
+0aaaaa
+
+#710
+1aaaaa
+r1739 aaaab
+
+#720
+0aaaaa
+
+#730
+1aaaaa
+r1200 aaaab
+
+#740
+0aaaaa
+
+#750
+1aaaaa
+r759 aaaab
+
+#760
+0aaaaa
+
+#770
+1aaaaa
+r416 aaaab
+
+#780
+0aaaaa
+
+#790
+1aaaaa
+r171 aaaab
+
+#800
+0aaaaa
+
+#810
+1aaaaa
+r24 aaaab
+
+#820
+0aaaaa
+
+#830
+1aaaaa
+r-25 aaaab
+
+#840
+0aaaaa
+
+#850
+1aaaaa
+r24 aaaab
+
+#860
+0aaaaa
+
+#870
+1aaaaa
+r171 aaaab
+
+#880
+0aaaaa
+
+#890
+1aaaaa
+r416 aaaab
+
+#900
+0aaaaa
+
+#910
+1aaaaa
+r759 aaaab
+
+#920
+0aaaaa
+
+#930
+1aaaaa
+r1200 aaaab
+
+#940
+0aaaaa
+
+#950
+1aaaaa
+r1739 aaaab
+
+#960
+0aaaaa
+
+#970
+1aaaaa
+r2376 aaaab
+
+#980
+0aaaaa
+
+#990
+1aaaaa
+r3111 aaaab
+
+#1000
